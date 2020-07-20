@@ -25,9 +25,9 @@ class TestListComprehensions(unittest.TestCase):
         self.assertEqual(test_numbers, doubled)
 
     def test_split_sentence(self):
-        sentence = "List comprehensions in Python are so much fun!"
+        sentence = "List comprehensions in Python are so much fun"
         test_sentence = split_sentence(sentence)
-        split = ['List', 'comprehensions', 'in', 'Python', 'are', 'so', 'much', 'fun!']
+        split = ['List', 'comprehensions', 'in', 'Python', 'are', 'so', 'much', 'fun']
         self.assertEqual(test_sentence, split)
 
     def test_number_of_spaces(self):
@@ -43,9 +43,9 @@ class TestListComprehensions(unittest.TestCase):
         self.assertEqual(test_length, lengths)
 
     def test_short_words(self):
-        sentence = "Can you not be weird"
+        sentence = "Can you not be weird, please?"
         test_length = short_words(sentence)
-        words = ['Can', 'you', 'not', 'be']
+        words = ['can', 'you', 'not', 'be']
         self.assertEqual(test_length, words)
 
     def test_get_vowel_names(self):

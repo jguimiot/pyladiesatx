@@ -35,6 +35,7 @@ def number_of_spaces(sentence):
 def word_length(sentence):
     """write a list comprehension that separates a String sentence into words,
     and then returns a list containing the length of each word"""
+
     return [
         len(word)
         for word in sentence.split()
@@ -43,11 +44,15 @@ def word_length(sentence):
 
 def short_words(sentence):
     """Find all of the words in a string that are fewer than 4 letters"""
+    words = sentence.lower().replace('.', '').replace(',', '').split()
+
     return [
         word
-        for word in sentence.split()
+        for word in words
         if len(word) < 4
     ]
+    # import re
+    #[re.sub(r'[^A-Za-z]+', '', x) for x in sentence]
 
 def get_vowel_names(name_list):
     """return every name from a list that begins with a vowel"""
