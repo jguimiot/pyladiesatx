@@ -1,0 +1,25 @@
+name,height,mass,hair_color,skin_color,eye_color,birth_year,gender,homeworld,species
+Luke Skywalker,172,77,blond,fair,blue,19BBY,male,Tatooine,Human
+C-3PO,167,75,NA,gold,yellow,112BBY,NA,Tatooine,Droid
+R2-D2,96,32,NA,"white, blue",red,33BBY,NA,Naboo,Droid
+Darth Vader,202,136,none,white,yellow,41.9BBY,male,Tatooine,Human
+Leia Organa,150,49,brown,light,brown,19BBY,female,Alderaan,Human
+Owen Lars,178,120,"brown, grey",light,blue,52BBY,male,Tatooine,Human
+Beru Whitesun lars,165,75,brown,light,blue,47BBY,female,Tatooine,Human
+Biggs Darklighter,183,84,black,light,brown,24BBY,male,Tatooine,Human
+Obi-Wan Kenobi,182,77,"auburn, white",fair,blue-gray,57BBY,male,Stewjon,Human
+Plo Koon,188,80,none,orange,black,22BBY,male,Dorin,Kel Dor
+Cordé,157,NA,brown,light,brown,NA,female,Naboo,Human
+Cliegg Lars,183,NA,brown,fair,blue,82BBY,male,Tatooine,Human
+Luminara Unduli,170,56.2,black,yellow,blue,58BBY,female,Mirial,Mirialan
+Barriss Offee,166,50,black,yellow,blue,40BBY,female,Mirial,Mirialan
+Dormé,165,NA,brown,light,brown,NA,female,Naboo,Human
+Dooku,193,80,white,fair,brown,102BBY,male,Serenno,Human
+Bail Prestor Organa,191,NA,black,tan,brown,67BBY,male,Alderaan,Human
+Jango Fett,183,79,black,tan,brown,66BBY,male,Concord Dawn,Human
+Finn,NA,NA,black,dark,dark,NA,male,NA,Human
+Rey,NA,NA,brown,light,hazel,NA,female,NA,Human
+Poe Dameron,NA,NA,brown,light,brown,NA,male,NA,Human
+BB8,NA,NA,none,none,black,NA,none,NA,Droid
+Captain Phasma,NA,NA,NA,NA,NA,NA,female,NA,NA
+Padmé Amidala,165,45,brown,light,brown,46BBY,female,Naboo,Human
